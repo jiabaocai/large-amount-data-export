@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eboot.iml" filepath="$PROJECT_DIR$/eboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eboot-actuator/eboot-actuator.iml" filepath="$PROJECT_DIR$/eboot-actuator/eboot-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eboot-admin/eboot-admin.iml" filepath="$PROJECT_DIR$/eboot-admin/eboot-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eboot-api/eboot-api.iml" filepath="$PROJECT_DIR$/eboot-api/eboot-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eboot-consumer/eboot-consumer.iml" filepath="$PROJECT_DIR$/eboot-consumer/eboot-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eboot-entity/eboot-entity.iml" filepath="$PROJECT_DIR$/eboot-entity/eboot-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eboot-file/eboot-file.iml" filepath="$PROJECT_DIR$/eboot-file/eboot-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eboot-provider/eboot-provider.iml" filepath="$PROJECT_DIR$/eboot-provider/eboot-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eboot-service/eboot-service.iml" filepath="$PROJECT_DIR$/eboot-service/eboot-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eboot-tools/eboot-tools.iml" filepath="$PROJECT_DIR$/eboot-tools/eboot-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eboot-web/eboot-web.iml" filepath="$PROJECT_DIR$/eboot-web/eboot-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eboot-actuator" />
+        <module name="eboot-admin" />
+        <module name="eboot-api" />
+        <module name="eboot-consumer" />
+        <module name="eboot-entity" />
+        <module name="eboot-file" />
+        <module name="eboot-provider" />
+        <module name="eboot-service" />
+        <module name="eboot-tools" />
+        <module name="eboot-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eboot" target="1.8" />
+      <module name="eboot-actuator" target="1.8" />
+      <module name="eboot-admin" target="1.8" />
+      <module name="eboot-api" target="1.8" />
+      <module name="eboot-consumer" target="1.8" />
+      <module name="eboot-entity" target="1.8" />
+      <module name="eboot-file" target="1.8" />
+      <module name="eboot-provider" target="1.8" />
+      <module name="eboot-service" target="1.8" />
+      <module name="eboot-tools" target="1.8" />
+      <module name="eboot-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
